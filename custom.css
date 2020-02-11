@@ -7,3 +7,8 @@ a:hover,a:focus {text-declaration:none; font-weight:normal}
 a:hover small{text-declaration:none; font-weight:normal}
 
 header ul a:hover,header ul a:focus {text-declaration:none; font-weight:normal}
+
+
+.title {
+	color:#267CB9;
+}
