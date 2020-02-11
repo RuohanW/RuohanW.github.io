@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: [Ruohan Wang]
 description: [PhD student in Machine Learning <br /> Imperial College London]
+logo: me.jpg
+cv_url: cv_ruohan.pdf
+scholar_url: https://scholar.google.com/citations?user=2N3B7KgAAAAJ&hl=en
