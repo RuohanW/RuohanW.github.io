@@ -2,8 +2,8 @@ img.shrink {
 	max-width: 70%;
 }
 
-a:hover,a:focus {}
+a:hover,a:focus {text-declaration:none; font-weight:normal}
 
-a:hover small{}
+a:hover small{text-declaration:none; font-weight:normal}
 
-header ul a:hover,header ul a:focus {}
+header ul a:hover,header ul a:focus {text-declaration:none; font-weight:normal}
