@@ -1,3 +1,9 @@
 img.shrink {
 	max-width: 70%;
 }
+
+a:hover,a:focus {}
+
+a:hover small{}
+
+header ul a:hover,header ul a:focus {}
