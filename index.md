@@ -4,7 +4,7 @@
 I'm a fourth-year PhD student at Imperial College London, under the supervision of Professor [Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). I'm funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD). Prior to PhD, I worked as a software developer and attempted startup.
 
 ## Research Interests
-My research interests are machine learning and robotics. Specifically, I have worked on imtation learning and meta-learning such that intelligent agents could learn from human behaviors and quickly adapt to individual people.
+My research focuses on user-centric machine learning. In particular, I have worked on imtation learning and meta-learning such that intelligent agents could learn from human behaviors and quickly adapt to individual people.
 My CV can be found [here](https://ruohanw.github.io/cv_ruohan.pdf)
 
 ## Publications
