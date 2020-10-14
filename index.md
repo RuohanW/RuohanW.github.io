@@ -1,5 +1,5 @@
 ## About Me
-I'm a fourth-year PhD student at Imperial College London, under the supervision of Professor [Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Dr. [Carlo Ciliberto](https://cciliber.github.io/) I'm funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD). Prior to the PhD, I worked as a software developer and attempted startup on a recommender system.
+I'm a fourth-year PhD student at Imperial College London, under the supervision of Professor [Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Dr. [Carlo Ciliberto](https://cciliber.github.io/). I'm funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD). Prior to the PhD, I worked as a software developer and attempted startup on a recommender system.
 
 ## Research Interests
 My research focuses on human-centric machine learning. In particular, I have worked on imitation learning and meta-learning such that intelligent agents could learn from human behaviors and quickly adapt to individuals.
