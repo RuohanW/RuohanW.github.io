@@ -1,5 +1,5 @@
 ## About Me
-I’m a postdoctoral researcher at UCL’s Intelligent Systems Group, supervised by Prof. Massimiliano Pontil[http://www0.cs.ucl.ac.uk/staff/M.Pontil/]. I completed my Ph.D. in machine learning at Imperial College, supervised by Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Dr. [Carlo Ciliberto](https://cciliber.github.io/). I was funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD).
+I’m a postdoctoral researcher at UCL’s Intelligent Systems Group, supervised by Prof. [Massimiliano Pontil](http://www0.cs.ucl.ac.uk/staff/M.Pontil/). I completed my Ph.D. in machine learning at Imperial College, supervised by [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Dr. [Carlo Ciliberto](https://cciliber.github.io/). I was funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD).
 
 ## Research Interests
 My research focuses on human-centric machine learning. In particular, I work on imitation learning and meta-learning so that intelligent agents could learn from humans and adapt to different situations.
