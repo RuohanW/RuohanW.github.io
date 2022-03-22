@@ -1,10 +1,11 @@
 ## About Me
-I’m a postdoctoral researcher at UCL’s Intelligent Systems Group, supervised by Prof. [Massimiliano Pontil](http://www0.cs.ucl.ac.uk/staff/M.Pontil/). I completed my Ph.D. in machine learning at Imperial College, supervised by [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Dr. [Carlo Ciliberto](https://cciliber.github.io/). I was funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD).
+I’m a research scientist at [Institute for Infocomm Research, A*STAR](https://www.a-star.edu.sg/i2r).  Previously, I was a postdoctoral researcher at UCL’s Intelligent Systems Group, supervised by Prof. [Massimiliano Pontil](http://www0.cs.ucl.ac.uk/staff/M.Pontil/). I completed my Ph.D. in machine learning at Imperial College, supervised by [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) and Prof. [Carlo Ciliberto](https://cciliber.github.io/). I was funded by [Singapore National Science Scholarship](https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/National-Science-Scholarship-PhD).
 
 ## Research Interests
-My research focuses on human-centric machine learning. In particular, I work on imitation learning and meta-learning so that intelligent agents could learn from humans and adapt to different situations.
+I have broad interests in topics of machine learning, including representation learning, meta-learning, and imitation learning. The goal of my research is to create robust ML systems that could efficiently leverage past experiences and existing knowledge for future tasks.
 
 ## Publications
+* [The Role of Global Labels in Few-Shot Classification and How to Infer Them](https://arxiv.org/abs/2108.04055), R Wang, M Pontil, C Ciliberto, NeurIPS 2021
 * [Structured prediction for conditional meta-learning](https://arxiv.org/abs/2002.08799), R Wang, Y Demiris, C Ciliberto, NeurIPS 2020
 * [Random expert distillation: Imitation learning via expert policy support estimation](https://arxiv.org/pdf/1905.06750), R Wang, C Ciliberto, P Amadori, Y Demiris, ICML 2019
 * [Support-weighted adversarial imitation learning](https://arxiv.org/abs/2002.08803), R Wang, C Ciliberto, P Amadori, Y Demiris, Neurips 2019 LIRE Workshop
